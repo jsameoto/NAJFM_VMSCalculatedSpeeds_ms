@@ -1,2 +1,2 @@
 # NAJFM_VMSCalculatedSpeeds_ms
-Code repo associated with NAJFM manuscript Accuracy of using calculated speeds with Vessel Monitoring System data: implications for fishing activity metrics
+Code repo associated with the [NAJFM manuscript Accuracy of calculated speeds from vessel monitoring system data: Considerations for fisheries management](https://doi.org/10.1093/najfmt/vqaf096)
